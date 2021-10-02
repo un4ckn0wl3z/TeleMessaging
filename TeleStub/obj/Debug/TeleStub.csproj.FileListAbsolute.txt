@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\TeleMessaging\TeleStub\bin\Debug\TeleStub.exe.config
+C:\Users\anuwat\source\repos\TeleMessaging\TeleStub\bin\Debug\TeleStub.exe
+C:\Users\anuwat\source\repos\TeleMessaging\TeleStub\bin\Debug\TeleStub.pdb
+C:\Users\anuwat\source\repos\TeleMessaging\TeleStub\obj\Debug\TeleStub.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\TeleMessaging\TeleStub\obj\Debug\TeleStub.exe
+C:\Users\anuwat\source\repos\TeleMessaging\TeleStub\obj\Debug\TeleStub.pdb

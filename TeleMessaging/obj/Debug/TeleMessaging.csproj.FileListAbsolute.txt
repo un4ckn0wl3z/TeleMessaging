@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\TeleMessaging\TeleMessaging\bin\Debug\TeleMessaging.exe.config
+C:\Users\anuwat\source\repos\TeleMessaging\TeleMessaging\bin\Debug\TeleMessaging.exe
+C:\Users\anuwat\source\repos\TeleMessaging\TeleMessaging\bin\Debug\TeleMessaging.pdb
+C:\Users\anuwat\source\repos\TeleMessaging\TeleMessaging\obj\Debug\TeleMessaging.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\TeleMessaging\TeleMessaging\obj\Debug\TeleMessaging.exe
+C:\Users\anuwat\source\repos\TeleMessaging\TeleMessaging\obj\Debug\TeleMessaging.pdb
